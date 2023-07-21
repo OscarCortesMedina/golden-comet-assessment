@@ -1,0 +1,1 @@
+Functional operations on collections, often combined with Java Streams API, can make your code more readable, concise, and easier to parallelize, they can also make it more difficult to debug due to the lack of intermediate variables and the way exceptions are handled.
