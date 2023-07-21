@@ -1,0 +1,1 @@
+An immutable object is an object whose state cannot be changed once it's created. This means that once an instance of the class is created and initialized, we can't change its fields or internal state, and that's why every time we need to change an immutable object we need to create a new one.
